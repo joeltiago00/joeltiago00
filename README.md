@@ -6,8 +6,8 @@ I'm 25 years old, I live in Brazil and I currently work with backend development
 
 <div align="center">
   <a href="https://github.com/joeltiago00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joeltiago00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeltiago00&layout=compact&langs_count=7&theme=dark"/>
+  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joeltiago00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeltiago00&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
   
 <div style="display: inline_block"><br>
