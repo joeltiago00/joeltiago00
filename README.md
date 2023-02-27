@@ -1,6 +1,6 @@
 ### Hi, im Joel Tiago👋,
 
-I'm 25 years old, I live in Brazil and I currently work with backend development. I really like to always be learning new things related to development, whether in programming, infrastructure or devops.
+I'm 26 years old, I live in Brazil and I currently work with backend development. I really like to always be learning new things related to development, whether in programming, infrastructure or devops.
 
 ##
 <a href="https://github.com/joeltiago00">
